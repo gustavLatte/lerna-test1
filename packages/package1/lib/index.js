@@ -3,5 +3,5 @@
 module.exports = package1;
 
 function package1() {
-    // TODO
+    console.log(`I'm package 1`);
 }
